@@ -1,4 +1,4 @@
-input_file = open('D:/a.txt', 'r')
+input_file = open("C:/b.txt", 'r')
 for line in input_file:
     l = len(line)
     s = ' '

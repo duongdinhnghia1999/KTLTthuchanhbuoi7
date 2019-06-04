@@ -1,4 +1,4 @@
-k = open('D:/a.txt', 'r')
+k = open('c:/b.txt', 'r')
 char, wc, lc = 0, 0, 0
 for line in k:
     for k in range(0, len(line)):

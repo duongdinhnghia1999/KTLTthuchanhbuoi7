@@ -1,2 +1,2 @@
-S = open('D:/a.txt', 'r')
+S = open('c:/b.txt', 'r')
 print(S.read())
